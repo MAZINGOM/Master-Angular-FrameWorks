@@ -17,6 +17,10 @@ It makes the overall Anngular development workflow much easier & faster
 
 # How to set it Up 
 1. install Node.js  npm package manager that comes with Node.js , is needed  for various library installations
+2. npm i - install
+3. npm i  -g stands for global  , if we don't specify "-g" then Angular won't be accessible from anywhere other than the current folder in which it is installed
+4. finally the name of the Package which is @angular/cli
+5. to check  the version  use ng v or ng version 
 # Npm package manager 
 1. Angular CLI
 2. Lightweight webserver t host the Angular applications locally in your system.
